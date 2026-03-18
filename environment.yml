@@ -1,0 +1,28 @@
+name: M2.975-PAC3
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - tabulate
+  - pip
+  - ipython
+  - jupyter
+  - ipykernel
+  - pip:
+      - tensorflow==2.19.*
+      - keras==3.10.*
+      - torch
+      - torchvision
+      - torchaudio
+      - torchsummary
+      - transformers
+      - evaluate
+      - datasets
