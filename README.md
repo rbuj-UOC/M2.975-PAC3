@@ -3,7 +3,7 @@
 El quadern jupyter s'ha executat de forma remota a [Colab](https://colab.research.google.com/)
 amb VS Code, ja que requereix l'ús de GPU per accelerar el processament. Els
 primers exercicis es poden executar en local, mentre que els altres no es
-recomana far-ho per l'elevat temps d'execució necessari a menys que es disposi
+recomana fer-ho per l'elevat temps d'execució necessari a menys que es disposi
 d'una GPU.
 
 ## Execucio remota amb Colab des de VS Code
